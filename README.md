@@ -1,4 +1,4 @@
-<img src="nyan.gif" alt="nyan" width="100%"/>
+<img src="https://raw.githubusercontent.com/xevenheaven/xevenheaven/master/nyan.gif" alt="nyan" width="100%"/>
 
 ### elysia
 An aspiring web developer with an interest in mountains and Japanese.
