@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="nyan.gif" alt="nyan" width="100%"/>
+
+### elysia
+An aspiring web developer with an interest in mountains and Japanese.
 
 <!--
 **xevenheaven/xevenheaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
